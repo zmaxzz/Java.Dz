@@ -1,4 +1,3 @@
-// Операция вычисления определителя матрицы
 class MatrixDeterminant implements MatrixOperation {
     @Override
     public void execute(double[][] matrix, double[][] dummy) {
