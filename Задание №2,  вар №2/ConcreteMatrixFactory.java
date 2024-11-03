@@ -1,4 +1,3 @@
-// Конкретная фабрика матричных операций
 class ConcreteMatrixFactory implements MatrixFactory {
     @Override
     public MatrixOperation createAddition() {
