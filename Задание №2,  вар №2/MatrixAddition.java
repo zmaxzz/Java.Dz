@@ -1,4 +1,3 @@
-// Операция сложения матриц
 class MatrixAddition implements MatrixOperation {
     @Override
     public void execute(double[][] a, double[][] b) {
