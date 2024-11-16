@@ -1,0 +1,3 @@
+interface MenuComponent {
+    void print();
+}
